@@ -1,0 +1,21 @@
+/*All odd numbered elements*/
+.odd{
+    font-family: Verdana, Dejavu Sans, sans-serif;
+    background-color: pink;
+
+}
+/*The first Even numbered element*/
+#eve1{
+    font-size: 36px;
+    color: blue;
+}
+/*The special case Odd element (third element*/
+.odd .special{
+    font-size: 24px;
+}
+/*The second Even numbered element*/
+#eve2{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
